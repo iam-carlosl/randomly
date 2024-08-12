@@ -12,3 +12,5 @@ another result, you can tap the button again and it will be generated a new numb
 Random item selection: In "Random selection" section, tap "Posibilidades" button to go to the list view and add all items you want to make selectable. You can add them one by one or
 you can do it by lotes, giving you the ability to add many choices in a single action. Finally tap the "Generar" button to receive a result. As random generation you can tap again
 and receive a different result. Also, you can filter the result by an expression, allowing to make selectable in that generation only the posibilities starting with that expression.
+
+The project reuses some elements of a mini library of visual components based on Flet Framework I made for myself. You can see more of this personal libary in my repository called "Calet"
